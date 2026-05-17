@@ -1,4 +1,4 @@
-﻿import React, { useState } from 'react';
+import React, { useState } from 'react';
 
 const InvestigacionNormativa = () => {
   const [selectedTab, setSelectedTab] = useState('resumen');

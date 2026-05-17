@@ -1,4 +1,4 @@
-﻿import React, { useState } from 'react';
+import React, { useState } from 'react';
 
 const AuditariaFiscal = () => {
   const [selectedTab, setSelectedTab] = useState('resumen');

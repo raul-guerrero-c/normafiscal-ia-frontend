@@ -1,4 +1,4 @@
-﻿import axios from 'axios';
+import axios from 'axios';
 
 const API_BASE = 'https://normafiscal-ia-backend-production.up.railway.app/api/v1/consultas';
 

@@ -1,4 +1,4 @@
-﻿import React, { useState } from 'react';
+import React, { useState } from 'react';
 import { consultarClaude, consultarOpenAI } from '../services/apiService';
 
 const ConsultaForm = ({ onRespuesta, onLoading }) => {
